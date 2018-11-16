@@ -1,0 +1,23 @@
+{
+  "name": "axios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "botkit": "^0.6.14",
+    "node-env-file": "^0.1.8",
+    "node-sparky": "^4.6.0",
+    "strong-soap": "^1.12.1",
+    "xml2js": "^0.4.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
